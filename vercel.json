@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/users/**/*.js": {
+    "pages/api/**/*.js": {
       "memory": 128,
       "maxDuration": 30
     }
